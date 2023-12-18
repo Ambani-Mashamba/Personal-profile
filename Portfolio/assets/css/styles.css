@@ -47,7 +47,8 @@ body{
     background-color: var(--bgDark);
 }
 .hero .left img{
-    width: 400px;
+    width: 600px;
+    padding-left: 100px;
 }
 .hero .right {
     color: var(--white);
@@ -112,7 +113,7 @@ body{
 }
 .flex-1{
     flex: 1;
-            
+        
 }
 .btn-secondary{
     background: transparent;
